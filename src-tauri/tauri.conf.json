@@ -1,8 +1,8 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "tauri-appclearfile",
+  "productName": "clearDist",
   "version": "0.1.0",
-  "identifier": "com.jiangrushe.tauri-appclearfile",
+  "identifier": "com.jiangrushe.clearDist",
   "build": {
     "beforeDevCommand": "npm run dev",
     "devUrl": "http://localhost:1430",
@@ -12,9 +12,9 @@
   "app": {
     "windows": [
       {
-        "title": "tauri-appclearfile",
-        "width": 800,
-        "height": 600
+        "title": "clearDist",
+        "width": 1066,
+        "height": 800
       }
     ],
     "security": {
